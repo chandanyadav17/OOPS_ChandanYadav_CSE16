@@ -16,6 +16,7 @@ using namespace std;
 
         cout << "enter marks"<<endl;
         cin >> marks;
+        
     }
 
     void display(){
